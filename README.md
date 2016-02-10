@@ -1,3 +1,3 @@
 # CSS Crash Course
 
-Sample site for a live demo
+A deep dive into CSS
