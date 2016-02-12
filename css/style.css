@@ -1,5 +1,21 @@
+/* Global Styles */
+
+* {
+	vertical-align: top;
+}
+
+body {
+	margin: 0;
+	font-family: 'Helvetica', Arial, sans-serif;
+}
+
+
 /* Navigation */
 
 nav {
 	background-color: #E0F7FA;
+}
+
+nav ul {
+
 }
