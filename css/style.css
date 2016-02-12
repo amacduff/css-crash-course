@@ -1,11 +1,6 @@
 /* Global Styles */
 
-* {
-	vertical-align: top;
-}
-
 body {
-	margin: 0;
 	font-family: 'Helvetica', Arial, sans-serif;
 	line-height: 1.5;
 	background-color: #006064;
@@ -31,14 +26,16 @@ header {
 header img {
 	width: 2rem;
 	padding: 1rem 0;
+	vertical-align: middle;
 }
 
 header nav,
 header li {
 	display: inline-block;
+	vertical-align: middle;
 }
 
 header li {
-	padding: 0.25rem 1rem 0.25rem 0;
+	padding-left: 2rem;
 	text-transform: uppercase;
 }
