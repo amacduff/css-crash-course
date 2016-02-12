@@ -16,9 +16,9 @@ body {
 nav {
 	background-color: #E0F7FA;
 	width: 60%;
-	padding: 0 20%;
+	margin: 0 20%;
 }
 
-nav ul {
-
+nav ul li {
+	display: inline;
 }
