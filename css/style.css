@@ -10,15 +10,33 @@ body {
 	line-height: 1.5;
 }
 
+a {
+	text-decoration: none;
+}
 
-/* Navigation */
-
-nav {
-	background-color: #E0F7FA;
+.container {
 	width: 60%;
 	margin: 0 20%;
 }
 
-nav ul li {
-	display: inline;
+
+/* Header */
+
+header {
+	background-color: #E0F7FA;
+}
+
+header img {
+	width: 2rem;
+	padding: 1rem 0;
+}
+
+header nav,
+header li {
+	display: inline-block;
+}
+
+header li {
+	padding: 0.25rem 1rem 0.25rem 0;
+	text-transform: uppercase;
 }
