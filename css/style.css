@@ -48,3 +48,21 @@ header li {
 	padding-left: 2rem;
 	text-transform: uppercase;
 }
+
+
+/* Sections */
+
+section {
+	padding: 5rem 0;
+}
+
+
+/* Hero */
+
+#hero {
+	background-color: #00BCD4;
+}
+
+#hero span {
+	font-size: 10rem;
+}
