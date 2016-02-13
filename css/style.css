@@ -72,6 +72,17 @@ header li {
 
 section {
 	padding: 5rem 0;
+	clear: both;
+}
+
+.two-col {
+	float: left;
+	width: 45%;
+	margin-right: 10%;
+}
+
+.two-col:last-child {
+	margin-right: 0;
 }
 
 
