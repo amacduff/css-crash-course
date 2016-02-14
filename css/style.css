@@ -13,7 +13,6 @@ p {
 
 a {
 	text-decoration: none;
-	color: #006064;
 }
 
 .container {
@@ -66,6 +65,10 @@ header li {
 header li {
 	padding-left: 2rem;
 	text-transform: uppercase;
+}
+
+header a {
+	color: #006064;
 }
 
 
