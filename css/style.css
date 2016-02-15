@@ -20,6 +20,10 @@ a {
 	margin: 0 20%;
 }
 
+img {
+	max-width: 100%;
+}
+
 
 /* Headings */
 
@@ -80,16 +84,21 @@ section {
 	overflow: hidden;
 }
 
+.one-col,
+.two-col {
+	float: left;
+	margin-right: 5%;
+}
+
 .one-col {
-	
+	width: 21.25%;
 }
 
 .two-col {
-	float: left;
-	width: 45%;
-	margin-right: 10%;
+	width: 47.5%;
 }
 
+.one-col:last-child,
 .two-col:last-child {
 	margin-right: 0;
 }
