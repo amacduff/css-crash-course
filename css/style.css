@@ -45,8 +45,8 @@ h1 {
 
 h2 {
 	font-size: 1.75rem;
-	letter-spacing: 0.5rem;
-	margin-bottom: 2rem;
+	letter-spacing: 1rem;
+	margin-bottom: 4rem;
 }
 
 h3 {
@@ -114,7 +114,7 @@ section {
 /* Hero */
 
 #hero {
-	background-color: #00BCD4;
+	background-color: rgba(0, 188, 212, 0.5);
 }
 
 #hero span {
@@ -126,7 +126,7 @@ section {
 /* Discover */
 
 #discover {
-	background-color: #00838F;
+	background-color: rgba(255, 255, 255, 0.1);
 }
 
 #discover img {
