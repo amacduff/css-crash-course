@@ -30,6 +30,7 @@ img {
 h1,
 h2,
 h3 {
+	font-weight: bold;
 	text-transform: uppercase;
 }
 
@@ -43,8 +44,14 @@ h1 {
 }
 
 h2 {
-	font-size: 1.5rem;
+	font-size: 1.75rem;
+	letter-spacing: 0.5rem;
 	margin-bottom: 2rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-bottom: 1rem;
 }
 
 
@@ -112,6 +119,7 @@ section {
 
 #hero span {
 	font-size: 10rem;
+	letter-spacing: 0.75rem;
 }
 
 
@@ -120,3 +128,25 @@ section {
 #discover {
 	background-color: #00838F;
 }
+
+#discover img {
+	margin-bottom: 2rem;
+}
+
+
+/* Contact */
+
+#contact {
+	padding-bottom: 0;
+}
+
+#contact dt {
+	font-weight: bold;
+}
+
+#contact dd {
+	margin-bottom: 1rem;
+}
+
+
+
