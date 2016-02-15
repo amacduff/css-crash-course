@@ -77,6 +77,11 @@ header a {
 section {
 	padding: 5rem 0;
 	clear: both;
+	overflow: hidden;
+}
+
+.one-col {
+	
 }
 
 .two-col {
@@ -98,4 +103,11 @@ section {
 
 #hero span {
 	font-size: 10rem;
+}
+
+
+/* Discover */
+
+#discover {
+	background-color: #00838F;
 }
