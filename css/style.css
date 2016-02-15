@@ -3,7 +3,7 @@
 body {
 	font-family: 'Helvetica', Arial, sans-serif;
 	line-height: 1.5;
-	background-color: #006064;
+	background: #293A4C url(../img/sea-bg.svg) repeat top left fixed;
 	color: #ffffff;
 }
 
