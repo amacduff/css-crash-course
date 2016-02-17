@@ -79,7 +79,11 @@ header li {
 }
 
 header a {
-	color: #006064;
+	color: #293A4C;
+}
+
+header a:hover {
+	border-bottom: 2px solid #293A4C;
 }
 
 
