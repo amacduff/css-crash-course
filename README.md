@@ -10,7 +10,6 @@ A deep dive into CSS
 - Clearing Floats
 - Inheritance & Specificity
 - Margins & Padding
-- Positioning
 
 ##Section Two
 - Text & Font Properties
